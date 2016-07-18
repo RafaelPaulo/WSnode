@@ -17,7 +17,7 @@ const allowCors = (req, res, next) => {
 
 app.listen(port) // Porta em que o servidor ouvirá
 
-// app.use(allowCors)
+app.use(allowCors)
 
 app.use(bodyParser.json())
 
