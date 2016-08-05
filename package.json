@@ -8,7 +8,7 @@
   },
   "conf": {
     "mongoUrl": "mongodb://localhost/firstApp"
-  }
+  },
   "keywords": [
     "screencast",
     "rest",
