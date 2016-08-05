@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "conf": {
+    "mongoUrl": "mongodb://localhost/firstApp"
+  }
   "keywords": [
     "screencast",
     "rest",
